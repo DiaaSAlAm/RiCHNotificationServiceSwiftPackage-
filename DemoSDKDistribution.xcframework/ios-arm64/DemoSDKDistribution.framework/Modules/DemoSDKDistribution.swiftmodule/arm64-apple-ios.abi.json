@@ -1,0 +1,65 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DemoSDKDistribution",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DemoSDKFile",
+        "printedName": "DemoSDKFile",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "doSomething",
+            "printedName": "doSomething()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19DemoSDKDistribution0A7SDKFileC11doSomethingSSyF",
+            "mangledName": "$s19DemoSDKDistribution0A7SDKFileC11doSomethingSSyF",
+            "moduleName": "DemoSDKDistribution",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:19DemoSDKDistribution0A7SDKFileC",
+        "mangledName": "$s19DemoSDKDistribution0A7SDKFileC",
+        "moduleName": "DemoSDKDistribution",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/ChatGPT\/DemoSDKDistribution\/DemoSDKDistribution\/DemoSDKFile.swift",
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 22,
+      "value": "\"This String from SDK\""
+    }
+  ]
+}

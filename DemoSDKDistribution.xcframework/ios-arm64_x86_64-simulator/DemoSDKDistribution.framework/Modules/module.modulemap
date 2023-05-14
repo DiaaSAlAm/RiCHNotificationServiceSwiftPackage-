@@ -1,0 +1,11 @@
+framework module DemoSDKDistribution {
+  umbrella header "DemoSDKDistribution.h"
+
+  export *
+  module * { export * }
+}
+
+module DemoSDKDistribution.Swift {
+  header "DemoSDKDistribution-Swift.h"
+  requires objc
+}
