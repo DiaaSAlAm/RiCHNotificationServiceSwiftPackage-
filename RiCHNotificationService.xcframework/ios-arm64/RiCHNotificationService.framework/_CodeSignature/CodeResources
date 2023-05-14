@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/RiCHNotificationService.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		cwlx/+AfJ4goGqN11QGXEfHIZhw=
+		QMT95j30Oxi1UVaf1lHAYIVgXw0=
 		</data>
 		<key>Modules/RiCHNotificationService.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/RiCHNotificationService.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		iQlz2lvMtqXTyD2wAVVC21EhME0=
+		5tN9PCL6A0eHhlKDD5wf7l4zW/Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W+mOnHisUwakqHlnmeSDpxewAFw6ZE7Dpq8aHtdateI=
+			8wOiWkaw8kg41Sbl+UzpwbQJ9GDFrxm7iQYS9mW4yo4=
 			</data>
 		</dict>
 		<key>Modules/RiCHNotificationService.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			31h8OYEhkUgAaiuxU1okMHOwqI3wr/GenTpeUx1LKgQ=
+			ZGArBlULznojkOI70rfpjvNVKlkHJ/moaR62FM8SBUQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

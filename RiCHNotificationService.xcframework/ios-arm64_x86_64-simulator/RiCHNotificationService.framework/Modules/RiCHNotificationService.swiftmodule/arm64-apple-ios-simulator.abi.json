@@ -1124,518 +1124,518 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 13,
       "value": "\"recipientId\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
       "kind": "StringLiteral",
       "offset": 451,
       "length": 17,
       "value": "\"registration_id\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
       "kind": "StringLiteral",
       "offset": 1310,
       "length": 17,
       "value": "\"registration_id\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
       "kind": "StringLiteral",
       "offset": 1343,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
       "kind": "StringLiteral",
       "offset": 1401,
       "length": 13,
       "value": "\"recipientId\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHNotificationExtensionHandler.swift",
       "kind": "StringLiteral",
       "offset": 1430,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/Payloadable.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/Payloadable.swift",
       "kind": "Array",
       "offset": 446,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 228,
       "length": 18,
       "value": "\"RiCHService-Info\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 270,
       "length": 15,
       "value": "\"RICH_BASE_URL\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 310,
       "length": 11,
       "value": "\"APP_GROUP\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 350,
       "length": 15,
       "value": "\"CLIENT_SECRET\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 11,
       "value": "\"CLIENT_ID\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 7,
       "value": "\"plist\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 454,
       "length": 11,
       "value": "\"BUNDLE_ID\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 994,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1014,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1030,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/Configuration.swift",
       "kind": "StringLiteral",
       "offset": 1062,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/Networking.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/Networking.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 54,
       "value": "\"No error was received but we also don't have data...\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 433,
       "length": 14,
       "value": "\"errorMessage\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 11,
       "value": "\"errorCode\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 433,
       "length": 14,
       "value": "\"errorMessage\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 11,
       "value": "\"errorCode\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/Response.swift",
       "kind": "StringLiteral",
       "offset": 695,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 188,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 213,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 42,
       "value": "\"\/api\/Notification\/GetNotificationContent\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 521,
       "length": 37,
       "value": "\"\/api\/Registration\/RegisterNewDevice\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 668,
       "length": 15,
       "value": "\"client_secret\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 727,
       "length": 11,
       "value": "\"client_id\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 904,
       "length": 47,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 940,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 950,
       "length": 9,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 985,
       "length": 41,
       "value": "\"Invalid URL used to create URL instance\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 1357,
       "length": 47,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 1393,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 1403,
       "length": 9,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Networking\/EndPoint.swift",
       "kind": "StringLiteral",
       "offset": 1438,
       "length": 41,
       "value": "\"Invalid URL used to create URL instance\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 74,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 1,
       "value": "\".\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 300,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 329,
       "length": 83,
       "value": "\" RiCH notifications framework could not find a valid \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 2,
       "value": "\" in your project.\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 448,
       "length": 43,
       "value": "\"CLIENT_SECRET is not found in \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 490,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 39,
       "value": "\"CLIENT_ID is not found in \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 561,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 593,
       "length": 43,
       "value": "\"RICH_BASE_URL is not found in \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 635,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 668,
       "length": 39,
       "value": "\"APP_GROUP is not found in \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 706,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 736,
       "length": 39,
       "value": "\"BUNDLE_ID is not found in \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Configuration\/RiCHNotification+NSException.swift",
       "kind": "StringLiteral",
       "offset": 774,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHService.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHService.swift",
       "kind": "StringLiteral",
       "offset": 1443,
       "length": 5,
       "value": "\"iOS\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHService.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Public interface\/RiCHService.swift",
       "kind": "StringLiteral",
       "offset": 1539,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 210,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 245,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 210,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 245,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 210,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/Entities\/RequestEntities.swift",
       "kind": "IntegerLiteral",
       "offset": 245,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 229,
       "length": 20,
       "value": "\"RiCHDatabase.realm\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 952,
       "length": 81,
       "value": "\"An error has accord in Realm init. Error \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 1032,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 1349,
       "length": 14,
       "value": "\"id = '\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 1361,
       "length": 9,
       "value": "\"'\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 1646,
       "length": 50,
       "value": "\"[RealmRepository] item with \""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RichSwiftPackage\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
+      "filePath": "\/Users\/apple\/Documents\/T2-Repo\/RiCHPushNotification\/RiCHNotificationService\/Classes\/DataPersistence\/DataRepository.swift",
       "kind": "StringLiteral",
       "offset": 1680,
       "length": 4,
