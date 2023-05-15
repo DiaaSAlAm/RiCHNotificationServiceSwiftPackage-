@@ -16,9 +16,9 @@ let package = Package(
     targets: [
         .target(
             name: "RichSwiftPackage",
-            dependencies: ["DemoSDKDistribution", "Unrealm"]),
+            dependencies: ["RiCHNotificationService", "Unrealm"]),
         .binaryTarget(
-            name: "DemoSDKDistribution",
-            path: "./DemoSDKDistribution.xcframework"),
+            name: "RiCHNotificationService",
+            path: "./RiCHNotificationService.xcframework"),
     ]
 )
