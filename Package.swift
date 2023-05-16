@@ -3,22 +3,40 @@
 
 import PackageDescription
 
+//let package = Package(
+//    name: "RichSwiftPackage",
+//    products: [
+//        .library(
+//            name: "RichSwiftPackage",
+//            targets: ["RichSwiftPackage"]),
+//    ],
+//    dependencies: [
+//        .package(url: "https://github.com/arturdev/Unrealm.git", from: "1.9.5"),
+//    ],
+//    targets: [
+//        .target(
+//            name: "RichSwiftPackage",
+//            dependencies: ["RiCHNotificationService", "Unrealm"]),
+//        .binaryTarget(
+//            name: "RiCHNotificationService",
+//            path: "./RiCHNotificationService.xcframework"),
+//    ]
+//)
+
 let package = Package(
-    name: "RichSwiftPackage",
+    name: "RiCHNotificationService",
+    platforms: [
+        .iOS(.v11)
+    ],
     products: [
         .library(
-            name: "RichSwiftPackage",
-            targets: ["RichSwiftPackage"]),
+            name: "RiCHNotificationService",
+            targets: ["RiCHNotificationService"])
     ],
     dependencies: [
-        .package(url: "https://github.com/arturdev/Unrealm.git", from: "1.9.5"),
-    ],
+        ],
     targets: [
-        .target(
-            name: "RichSwiftPackage",
-            dependencies: ["RiCHNotificationService", "Unrealm"]),
         .binaryTarget(
             name: "RiCHNotificationService",
-            path: "./RiCHNotificationService.xcframework"),
-    ]
-)
+            path: "RiCHNotificationService.xcframework")
+    ])
